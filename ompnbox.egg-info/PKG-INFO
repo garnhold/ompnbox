@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ompnbox
+Version: 0.0.1
+Summary: Utilities
+Home-page: UNKNOWN
+Author: Garrett Arnhold
+Author-email: garrett@arnholdsystems.com
+License: UNKNOWN
+Description: # OmpnBox
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
